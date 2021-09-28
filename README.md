@@ -1,4 +1,4 @@
-**MAINTAINER [OIVAS7572](https://github.com/OIVAS7572)**
+**MAINTAINER [samayay2010](https://github.com/samanyay2010)**
 
 [![Python](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Python.yml/badge.svg)](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Python.yml)
 [![Docker](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Docker.yml/badge.svg)](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Docker.yml)
@@ -56,3 +56,4 @@ Credits to [ShailChoksi's lichess-bot](https://github.com/ShailChoksi/lichess-bo
 
 ## License
 This code is primarily taken from [lichess-bot by ShailChoksi](https://github.com/ShailChoksi/lichess-bot) and is hence run under the AGPLv3 License (or later at your option). Check out the [LICENSE file](/LICENSE) for full text.
+And thanks for ovias to allow me make this repo!
